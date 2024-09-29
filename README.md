@@ -1,9 +1,13 @@
 # BUSINESS-INTELLIGENCE-360-DEGREE-PROD-
 LIVE DASHBOARD:https://app.powerbi.com/view?r=eyJrIjoiMzJmYjk3MzAtYzIwOC00NWZkLThhYTktMzNhZTYyZDIzMDExIiwidCI6IjE5MTVjZjBjLTk3YWYtNDAzOS1iMDEwLWExNGZmYzQ0ZGM0ZCJ9
+
+
+
 PROBLEM STATEMENT:
 Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and would like to build power BI dashboard that can give him real time sales insights.
 
 As sales directory of atliQ hardware has decided to invest in data analysis project he did a meeting with IT director, data analytics team to come up with a plan. We will use AIMS grid to define purpose and success criteria of this project.
+
 
 Management’s Dashboard Requirements
 The management wants to see these reports in the Power BI Dashboard:
